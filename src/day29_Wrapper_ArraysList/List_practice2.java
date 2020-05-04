@@ -53,8 +53,8 @@ public class List_practice2 {
         list2.add(200);
         list2.add(300);
 
-        int maximum3 = library.max(list2);
-        System.out.println(maximum3);
+        //int maximum3 = library.max(list2);
+        //System.out.println(maximum3);
 
 
     }

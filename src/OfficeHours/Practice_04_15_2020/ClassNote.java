@@ -1,4 +1,4 @@
-package OfficeHours.Practice_15_2020;
+package OfficeHours.Practice_04_15_2020;
 
 public class ClassNote {
     /*

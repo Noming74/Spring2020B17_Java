@@ -3,12 +3,15 @@ package OfficeHours.Practice_04_22_20;
 import java.util.Arrays;
 
 public class ArraysUitlity {
+
     /*
+
     Arrays.sort(arr): sorts the array in Ascending order
     Arrays.equal(arr1, arr2):  arr1 == arr2
     Arrays.toString(): converts single dimentional array to string
     Arrays.deepToString(): onverts multi dimentional array to string
-     */
+
+    */
 
     public static void main(String[] args) {
         int[] arr = {9,10,8,65,8,6,5};
