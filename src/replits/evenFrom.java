@@ -10,6 +10,6 @@ public class evenFrom {
                 num++;
             }
         }
-        System.out.println(int);
+
     }
 }
